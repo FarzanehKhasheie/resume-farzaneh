@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+<img src="" />
 
-You can use the [editor on GitHub](https://github.com/FarzanehKhasheie/resume-farzaneh/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am Farzaneh khasheie
+I am studying computer engineering at PNU University.
 
-### Markdown
+### Personal Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- First Name: farzaneh
+- Last Name: khasheie
+- Birth Date: 1992/10/24
+- Marriage Status: Single
 
-```markdown
-Syntax highlighted code block
+### Skills
 
-# Header 1
-## Header 2
-### Header 3
++ photographer
 
-- Bulleted
-- List
++ Designing
 
-1. Numbered
-2. List
++ PHOTOSHOP
 
-**Bold** and _Italic_ and `Code` text
++ Advertising
 
-[Link](url) and ![Image](src)
-```
+### Languages
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Persian(Advanced)
 
-### Jekyll Themes
+- English(Normal)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FarzanehKhasheie/resume-farzaneh/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Licenses & Certifications
 
-### Support or Contact
+- Bachelor of Software
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Working Experience
+
+- Designing & Advertising
+
+### Titles and Honors
+
+- Third place in Isfahan Regional Software Competition Festival
+
+- Winning the second place in Isfahan chess tournament
+
+### Other Accounts
+
+- instagram: <a href="https://instagram.com/fawrzaneh_kh?igshid=1tf0s3zwqeryl">https://instagram.com/fawrzaneh_kh?igshid=1tf0s3zwqeryl</a>
+  Persian Resume: <a href=""> Resume </a>
