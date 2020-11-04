@@ -45,4 +45,5 @@ I am studying computer engineering at PNU University.
 ### Other Accounts
 
 - instagram: <a href="https://instagram.com/fawrzaneh_kh?igshid=1tf0s3zwqeryl">https://instagram.com/fawrzaneh_kh?igshid=1tf0s3zwqeryl</a>
-  Persian Resume: <a href=""> Resume </a>
+ 
+- Persian Resume: <a href=""> Resume </a>
